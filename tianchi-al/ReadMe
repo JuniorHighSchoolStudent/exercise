@@ -1,0 +1,2 @@
+1、安装与预训练库 pip install cnn_finetune
+2、然后，python main_senet.py
